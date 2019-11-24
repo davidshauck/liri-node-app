@@ -1,0 +1,70 @@
+---------MOVIE INFO----------
+Movie: Jaws
+Year: 1975
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: English
+Plot: When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+---------MOVIE INFO----------
+Movie: Good Will Hunting
+Year: 1997
+IMDB Rating: 8.3
+Rotten Tomatoes Rating: 97%
+Country: USA
+Language: English
+Plot: Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
+Actors: Matt Damon, Ben Affleck, Stellan Skarsgård, John Mighton
+----------UPCOMING SHOWS-----------
+Artist: Billie Eilish
+Venue: American Airlines Arena
+Location: Miami
+DATE: 03/09/2020
+
+Venue: Amway Center
+Location: Orlando
+DATE: 03/10/2020
+
+Venue: PNC Arena
+Location: Raleigh
+DATE: 03/12/2020
+
+Venue: Wells Fargo Center
+Location: Philadelphia
+DATE: 03/13/2020
+
+Venue: Madison Square Garden
+Location: New York
+DATE: 03/15/2020
+-----------SONG INFO-----------
+Artist: Grateful Dead
+Song: Crazy Fingers - 2013 Remaster
+URL: https://p.scdn.co/mp3-preview/eb7a0be32630bada747f6a1034e252c171ee2fdc?cid=63042de3fb4b49ec8d4da37903e72c1a
+Album: Blues for Allah (2013 Remaster)
+
+Artist: Grateful Dead
+Song: Crazy Fingers - 2017 Remaster
+URL: https://p.scdn.co/mp3-preview/b4a0089bc834d8401697a6d79e11c91158f8ba8c?cid=63042de3fb4b49ec8d4da37903e72c1a
+Album: Grateful Dead Records Collection (2017 Remaster)
+
+Artist: Grateful Dead
+Song: Crazy Fingers - Live at Orpheum, San Francisco, 7/13/76
+URL: https://p.scdn.co/mp3-preview/d6d8f86788872dc53f8e6fb1ef25aa35976f23b9?cid=63042de3fb4b49ec8d4da37903e72c1a
+Album: 30 Days of Dead 2015
+
+Artist: Grateful Dead
+Song: Crazy Fingers - 2006 Remaster
+URL: https://p.scdn.co/mp3-preview/660fde3051ebed9abc361d5df3c108660fcec3de?cid=63042de3fb4b49ec8d4da37903e72c1a
+Album: Blues for Allah
+
+Artist: Grateful Dead
+Song: Crazy Fingers / Drums - Live at the Great American Music Hall, San Francisco, CA, August 13, 1975
+URL: https://p.scdn.co/mp3-preview/f0ae276b73769b57879752a8f77e95349f410c48?cid=63042de3fb4b49ec8d4da37903e72c1a
+Album: One from the Vault (Live)
+
+----------UPCOMING SHOWS-----------
+Artist: The Spadtastics
+Venue: Garcia’s at The Capitol Theatre
+Location: Port Chester
+DATE: 12/04/2019
